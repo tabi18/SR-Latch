@@ -1,5 +1,5 @@
 # SR-Latch
-The SR latch is an essential circuit in digital electronics for storing and managing binary data. This project explains how an SR latch works using transistors and resistors. The output states of the latch are represented visually by the two LEDs. Through this project, the operation and behavior of the SR latch can be observed, highlighting the principles of sequential logic and the practical implementation of basic digital circuits."
+The SR latch is an essential circuit in digital electronics for storing and managing binary data. This project explains how an SR latch works using transistors and resistors. The output states of the latch are represented visually by the two LEDs. Through this project, the operation and behavior of the SR latch can be observed, highlighting the principles of sequential logic and the practical implementation of basic digital circuits.
 <br>
 <img width="20%" src="https://github.com/tabi18/SR-Latch/assets/128082520/58b0c819-1752-4837-9ee4-336332b0f39a">
 <img width="20%" src="https://github.com/tabi18/SR-Latch/assets/128082520/92b72adf-fd46-4814-8e65-c83fbdf04522">
